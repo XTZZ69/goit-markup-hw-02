@@ -1,0 +1,17 @@
+a {
+    text-decoration: none;
+  }
+  .logo-web {
+    color: #2196F3;
+    font-family: 'Raleway';
+  }
+  .logo-studio{
+    color: black;
+    font-family: 'Raleway';
+  }
+  body {
+    font-family: 'Roboto';
+  }
+.footer {
+  background-color: #2F303A;
+}
