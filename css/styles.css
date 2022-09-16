@@ -11,11 +11,11 @@ body {
 /*Logo Style*/
 .logo-web {
   color: var(--accent-color);
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
 }
 .logo-studio {
   color: black;
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
 }
 
 .list {
